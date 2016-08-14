@@ -1,10 +1,20 @@
+
+
 ==============================================================
+To directly download this file
+ 
+ go to terminal in raspberry pi and type
+ 
+ git clone https://github.com/UjjwalNepal/BCI_UPDATED_WHEELCHAIR.git
+
 INstructions:
 --
 Install the below listed Libraries before running the code:
 	run these commands as below:
 
 -sudo apt-get install python-rpi.gpio
+
+
 -sudo apt-get install pyserial
 
 
