@@ -16,3 +16,13 @@ to use this file directly in raspberry pi
 press Ctrl+Alt+T from keyboard on raspberry pi
 or you can go to linux terminal
 
+run the program as 
+sudo python BCI_UPDATED_BY_UJJWAL.py
+
+this should be it
+
+in case of errors or some other library missing
+
+check the error and try to fix it
+
+Regards
